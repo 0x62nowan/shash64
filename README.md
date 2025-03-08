@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shash</h1>
 <h3 align="center"> A passionate developer in blockchain, cryptography, and decentralized finance, I specialize in smart contract engineering, protocol research, on-chain data analysis and more. With nearly seven years of experience in DeFi, I explore the intersection of distributed systems, economic game theory, and secure computation to build scalable and efficient Web3 solutions. </h3>
 
-- 🔭 I’m currently working on [Nebula](Jdn)
+- 🔭 I’m currently working on [Noctal](Noctal)
 
-- 🌱 I’m currently learning **Go,C and web3.js**
+- 🌱 I’m currently learning **C and web3.js**
 
 - 📫 How to reach me **0xshash@proton.me**
 
