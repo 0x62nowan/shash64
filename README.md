@@ -48,6 +48,10 @@
   </tr>
   <tr>
     <td align="center" width="90">
+      <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" width="48" height="48" style="border-radius: 15px;" alt="Bitcoin" />
+      <br>Bitcoin
+    </td>
+    <td align="center" width="90">
       <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" width="48" height="48" alt="Ethereum" />
       <br>Ethereum
     </td>
@@ -55,6 +59,7 @@
       <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" width="48" height="48" style="border-radius: 15px;" alt="Solana" />
       <br>Solana
     </td>
+    
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
       <br>Angular
