@@ -48,7 +48,7 @@
   </tr>
   <tr>
     <td align="center" width="90">
-      <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" width="48" height="48" style="border-radius: 15px;" alt="Bitcoin" />
+      <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1.png" width="48" height="48" style="border-radius: 15px;" alt="Bitcoin" />
       <br>Bitcoin
     </td>
     <td align="center" width="90">
@@ -59,49 +59,6 @@
       <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" width="48" height="48" style="border-radius: 15px;" alt="Solana" />
       <br>Solana
     </td>
-    
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
-      <br>Angular
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
-      <br>Express
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
-      <br>Laravel
-    </td>
-    <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="48" height="48" />
-      <br>AWS
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" alt="MySQL" />
-      <br>GraphQL
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" alt="AndroidStudio" />
-      <br>Android
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=materialui" width="45" height="45" alt="MUI v5" />
-      <br>MaterialUI
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
-      <br>Docker
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="Three.js" />
-      <br>Three.js
-    </td>
     <td align="center" width="90">
       <img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" height="45" >
       <br>NFT
@@ -111,12 +68,8 @@
       <br>DeFi
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue" />
-      <br>Vue
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn2.iconfinder.com/data/icons/elements-of-the-periodic-table-1/512/Mendeleev_atom_atomic_element_chemistry-09-3-64.png" width="45" height="45" alt="selenium" />
-      <br>Selenium
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="48" height="48" />
+      <br>AWS
     </td>
   </tr>
 </table>
