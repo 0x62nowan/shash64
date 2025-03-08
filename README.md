@@ -22,7 +22,7 @@
     </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="55" height="55" />
-      <br>Javascript
+      <br>Java
     </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
@@ -31,6 +31,19 @@
     <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="MongoDB" />
       <br>Go
+    </td>
+    <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="MongoDB" />
+      <br>PHP
+    </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="MongoDB" />
+      <br>HTML
+    </td>
+    </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="MongoDB" />
+      <br>CSS
     </td>
   </tr>
   <tr>
