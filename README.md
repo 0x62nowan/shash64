@@ -7,6 +7,29 @@
 
 - 📫 How to reach me **0xshash@proton.me**
 
+<h3 align="left">Basics:</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="55" height="55" />
+      <br>Java
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="MongoDB" />
+      <br>Go
+    </td>
+    <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="MongoDB" />
+      <br>PHP
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="48" height="48" />
+      <br>AWS
+    </td>
+ </tr>
+</table>
+
+
 <h3 align="left">Skills:</h3>
 <table align="center">
   <tr>
@@ -19,20 +42,8 @@
       <br>Javascript
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="55" height="55" />
-      <br>Java
-    </td>
-    <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
       <br>MySQL
-    </td>
-    <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="MongoDB" />
-      <br>Go
-    </td>
-    <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="MongoDB" />
-      <br>PHP
     </td>
       <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="MongoDB" />
