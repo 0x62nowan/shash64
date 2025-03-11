@@ -54,6 +54,10 @@
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="MongoDB" />
       <br>CSS
     </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="48" height="48" />
+      <br>Git
+    </td>
   </tr>
   <tr>
     <td align="center" width="90">
@@ -76,15 +80,7 @@
       <img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" height="45" >
       <br>DeFi
     </td>
-    <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="48" height="48" />
-      <br>AWS
-    </td>
         </td>
-    <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="48" height="48" />
-      <br>Git
-    </td>
     <td align="center" width="90">
         <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="48" height="48" />
       <br>Prettier
