@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Shash</h1>
-<h3 align="center">A CS student passionate about blockchain, cryptography, and DeFi. I love exploring smart contracts, protocol research, and on-chain data analysis. With nearly seven years of experience, I'm Always learning and building projects at the intersection of distributed systems, game theory, and secure computation.</h3>
+<h3 align="center">A CS student passionate about blockchain, cryptography, and DeFi. I love exploring smart contracts, protocol research, and on-chain data analysis. With nearly seven years of experience, I’ve always been driven by curiosity and a passion for creating, understanding, and finding innovative solutions in DeFi. </h3>
 
 - 🔭 I’m currently working on [Noctal](Noctal)
 
