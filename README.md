@@ -26,6 +26,10 @@
       <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="48" height="48" />
       <br>AWS
     </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="MongoDB" />
+      <br>Node JS
+    </td>
  </tr>
 </table>
 
