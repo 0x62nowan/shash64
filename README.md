@@ -92,4 +92,5 @@
   </tr>
 </table>
 <br/>
+🥤 Buy me a coffee: bc1qfjecp0le4wkzw6t9ck2lra3pvymqaw5le28t72
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shash64&label=Profile%20views&color=0e75b6&style=flat" alt="shash64" /> </p>
