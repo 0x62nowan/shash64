@@ -3,7 +3,7 @@
 
 - 🔭 Working on [Kernel V1](https://github.com/shash64/Kernel) : The last version planned for publication and deployment (refactored from Noctal v1.21)
 
-- 🌱 I’m currently learning **C web3.js and react**
+- 🌱 I’m currently learning **C, web3.js and react**
 
 - 📫 How to reach me **0xshash@proton.me**
 
