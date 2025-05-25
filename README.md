@@ -3,13 +3,17 @@
 
 - 🔭 Working on [Kernel V1](https://github.com/shash64/Kernel) : The last version planned for publication and deployment (refactored from Noctal v1.21)
 
-- 🌱 I’m currently learning **C, web3.js and react**
+- 🌱 I’m currently learning **TypeScript, web3.js and react**
 
 - 📫 How to reach me **0xshash@proton.me**
 
 <h3 align="left">Basics:</h3>
 <table align="center">
   <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=c" alt="icon" width="55" height="55" />
+      <br>C
+    </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="55" height="55" />
       <br>Java
